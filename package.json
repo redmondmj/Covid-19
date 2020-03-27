@@ -1,0 +1,29 @@
+{
+  "name": "covid-19-data-project",
+  "version": "1.0.0",
+  "description": "Covi-Data Demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redmondmj/Covid-19-Data-Project.git"
+  },
+  "keywords": [
+    "Covid-19",
+    "Data",
+    "Coronavirus",
+    "SARS-Cov-2"
+  ],
+  "author": "Matt Redmond (Thanks to cobra_winfrey)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redmondmj/Covid-19-Data-Project/issues"
+  },
+  "homepage": "https://github.com/redmondmj/Covid-19-Data-Project#readme",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
